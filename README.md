@@ -28,9 +28,9 @@ Built with 4 interactive pages for seamless navigation:
 👥 Age Group View – Demographics, policy demand, and settlement analysis
 
 # 🌟 Key Features
-Dynamic filters and slicers for deep dives (City, Age Group, Sales Mode, Policy ID, etc.)
+- Dynamic filters and slicers for deep dives (City, Age Group, Sales Mode, Policy ID, etc.)
 
-Custom KPIs to track growth:
+- Custom KPIs to track growth:
 
 • Total Customers
 
