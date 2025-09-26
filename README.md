@@ -8,13 +8,13 @@ performance across various dimensions, enabling stakeholders to make data-driven
 The dashboard explores Shield Insurance’s business across multiple angles—from customer growth to settlement patterns—designed to support strategic planning and operational improvements.
 
 # ✅ Core Focus Areas
-• Track monthly trends in revenue and customer acquisition
+- Track monthly trends in revenue and customer acquisition
 
-• Compare performance across different sales channels
+- Compare performance across different sales channels
 
-• Understand customer behavior by age group and policy preference
+- Understand customer behavior by age group and policy preference
 
-• Estimate settlement rates across demographic segments
+- Estimate settlement rates across demographic segments
 
 # 🗂 Dashboard Structure
 Built with 4 interactive pages for seamless navigation:
@@ -28,18 +28,18 @@ Built with 4 interactive pages for seamless navigation:
 👥 Age Group View – Demographics, policy demand, and settlement analysis
 
 # 🌟 Key Features
-- Dynamic filters and slicers for deep dives (City, Age Group, Sales Mode, Policy ID, etc.)
+Dynamic filters and slicers for deep dives (City, Age Group, Sales Mode, Policy ID, etc.)
 
-- Custom KPIs to track growth:
+Custom KPIs to track growth:
 
-• Total Customers
+- Total Customers
 
-• Total Revenue
+- Total Revenue
 
-• DRG – Daily Revenue Growth
+- DRG – Daily Revenue Growth
 
-• DCG – Daily Customer Growth
+- DCG – Daily Customer Growth
 
-• Data covers Nov 2022 to Apr 2023
+- Data covers Nov 2022 to Apr 2023
 
-• Currency: INR
+- Currency: INR
