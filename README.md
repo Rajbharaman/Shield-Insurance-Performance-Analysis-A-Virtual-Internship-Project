@@ -43,3 +43,7 @@ Custom KPIs to track growth:
 - Data covers Nov 2022 to Apr 2023
 
 - Currency: INR
+
+# 📊 Dashboard
+[Shield Insurance Dashboard]
+https://app.powerbi.com/view?r=eyJrIjoiZjRmODU3ODAtYjA0Ny00MDE3LWFkN2QtYmE2ZGQzNGNlZTcxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
