@@ -45,8 +45,7 @@ Custom KPIs to track growth:
 - Currency: INR
 
 # 📊 Dashboard
-[Shield Insurance Dashboard]
-https://app.powerbi.com/view?r=eyJrIjoiZjRmODU3ODAtYjA0Ny00MDE3LWFkN2QtYmE2ZGQzNGNlZTcxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+[Shield Insurance Dashboard] : [click to view](https://app.powerbi.com/view?r=eyJrIjoiZjRmODU3ODAtYjA0Ny00MDE3LWFkN2QtYmE2ZGQzNGNlZTcxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-# ▶️ Video Link
-(https://www.linkedin.com/posts/aman-sql-powerbi_dataanalytics-businessinsights-learningjourney-activity-7379212220754407424-I7NA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJasCMB3bqlsjFGIZvJBKgiDUvJ4b8Getc)
+# ▶️ Video Walkthrough
+[Shield Insurance video]: [Click to view](https://www.linkedin.com/posts/aman-sql-powerbi_dataanalytics-businessinsights-learningjourney-activity-7379212220754407424-I7NA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJasCMB3bqlsjFGIZvJBKgiDUvJ4b8Getc)
